@@ -263,11 +263,6 @@ This project is open source and available for educational purposes.
 
 **Krish Arora** - Roll No: 221210060  
 **Abhinav Kumar** - Roll No: 221210004
-
-**Project**: ServerPulse Analytics - Data Stream Analysis Platform  
-**Course**: CSBB 422 – Big Data Analytics Lab Project  
-**Semester**: 7th Semester, B.Tech CSE
-
 ---
 
 ## 🙏 Acknowledgments
