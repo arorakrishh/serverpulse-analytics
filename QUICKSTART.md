@@ -58,4 +58,4 @@ docker-compose down
 
 ---
 
-**That's it! You're now running a production-grade streaming data pipeline.** 🚀
+
